@@ -7,7 +7,7 @@ Pasta Audio_Moth:
  -Possui cada um dos arquivos que foram utilizados para o projeto, incluindo o arquivo de firmware padrão, assim como ambos os arquivos de frequências de captação específicos.
  
 Pasta Codigo_Arduino:
- -Nessa Pasta esta o código principal em desenvolvimento para o Arduino Nano. Sujeito a mudanças.
+ \newline() -Nessa Pasta esta o código principal em desenvolvimento para o Arduino Nano. Sujeito a mudanças.
  
 Pasta Codigo_Em_Python:
 
