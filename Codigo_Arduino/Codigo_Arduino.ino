@@ -94,13 +94,13 @@ void loop() {
 
   myFile = SD.open("data.txt", FILE_WRITE);
   if (myFile){
-    myFile.print(F("%  Temperature: "));
+    myFile.print(F("%  Temperatura: "));
     myFile.println(temperatureC);
 
-    myFile.print(F("LDR - Light intensity: "));
+    myFile.print(F("LDR - Intensidade Luminosa: "));
     myFile.println(ldrValue);
 
-    myFile.print(F("BMP280 - Pressure: "));
+    myFile.print(F("BMP280 - Pressao Atmosferica: "));
     myFile.print(pressure);
     myFile.println(F(" hPa"));
 
@@ -108,5 +108,6 @@ void loop() {
   } else {
     Serial.println(F("error opening data.txt"));
   }
+  delay(300000);// 5 minutos
 
 }
