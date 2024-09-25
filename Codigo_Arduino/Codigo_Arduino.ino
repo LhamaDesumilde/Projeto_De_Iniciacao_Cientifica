@@ -1,3 +1,25 @@
+/*
+DHT22:
+Vcc: 5V
+DATA: D2
+
+BPM280:
+Vcc: 3.3V
+SCL: A5
+SDA: A4
+
+LDR: A0
+PULLDOWN 10KOhm COM A0
+Vcc: 5V
+
+SD:
+MISO: D12
+MOSI: D11
+SCK: D13
+SC:D10
+Vcc: 5V
+*/
+
 //------------------------------Bibliotecas------------------------------
 //Bibliotecas para o leitor de cartão
 #include <SPI.h>
