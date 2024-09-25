@@ -1,0 +1,14 @@
+Teste 1:
+BMP280 utilizando comunicação I2C
+
+Teste 2:
+BMP280, LDR e DHT22
+
+Teste 3:
+BMP280, LDR, DHT22, MicroSD
+
+Teste 4:
+BMP280, LDR, DHT22, MicroSD e RTC
+
+Teste 5:
+BMP280, LDR, DHT22, MicroSD e RTC com nomes de arquivos mudando com o tempo
