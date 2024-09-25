@@ -4,7 +4,6 @@ Essa é o repositório do Projeto De Iniciação Científica de Felipe e Luisa.
 -------------DESCRIÇÃO DAS PASTAS-------------
 
 Pasta Audio_Moth:
-
  -Possui cada um dos arquivos que foram utilizados para o projeto, incluindo o arquivo de firmware padrão, assim como ambos os arquivos de frequências de captação específicos.
  
 Pasta Codigo_Arduino:
